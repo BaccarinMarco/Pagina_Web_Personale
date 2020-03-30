@@ -1,0 +1,11 @@
+.ancora{
+	padding-left= 100 px;
+}
+img { border: 1px solid #000; }
+.descrizione {
+ width: 400px;
+ height: 300px;
+ padding: 10px;
+ position: relative;
+ left: 250px;
+}
